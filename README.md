@@ -8,9 +8,9 @@ GitHub.com/Rohit-meher
 ----------------
 
        OS  :  Windows 11
-      GPU  :  RTX 2070  
-      CPU  :  Ryzen 5 3600
-Languages  :  Python
+      GPU  :  RTX 3050 (6gb)
+      CPU  :  i5 13420H
+Languages  :  Python,C/C++,HTML
   
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
